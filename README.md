@@ -2,7 +2,7 @@
 
 A passionate Cyber Security Student, with interests in low-level and embedded systems
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AURZeeshan&color=blue)
 
 ---
 
@@ -17,6 +17,6 @@ A passionate Cyber Security Student, with interests in low-level and embedded sy
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AURZeeshan&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AURZeeshan&layout=compact&theme=dark)
